@@ -12,6 +12,7 @@ public class TestB extends Base {
 
 		UsersPage u = new UsersPage();
 		u.NavigateToUsers();
+		System.out.println("New phase");
 	}
 
 }
